@@ -2,7 +2,7 @@
         xsi:schemaLocation="https://sericksonbob.github.io/CSE445-HW6XML Credentials.xsd">
   
   <!--Stock User-->
-  <User>    
+  <User isStaff="true">    
     <Username>TA</Username>
     <Password>Cse445!</Password>
   </User>
